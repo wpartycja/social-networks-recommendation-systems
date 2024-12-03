@@ -2,6 +2,3 @@
 */graphs
 *.gml
 *.txt
-*/hourly_city_graphs
-*/*.zip
-*/ztm
